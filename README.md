@@ -137,17 +137,6 @@ A face transformation application that preserves one half of the original face w
 </td>
 <td width="50%" valign="top">
 
-###  Visual Intelligence & Beyond
-
-**Building blocks for intelligent perception.**
-
-Explorations in visual understanding and AI systems, including UI element detection and visual semantics.
-
-- YOLO-based UI element detection.
-- Detection of buttons, input fields, headers, icons, and other UI elements.
-- Experiments with visual recognition and model evaluation.
-
-**Stack:** Python · YOLOv8 · Computer Vision · Deep Learning
 
 </td>
 </tr>
