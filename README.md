@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# ⚡ DEEP SHAH
+#  DEEP SHAH
 
 ### `AI ENGINEER IN THE MAKING // BUILDING INTELLIGENT SYSTEMS`
 
@@ -32,12 +32,12 @@ I'm a Computer Science student passionate about building **intelligent systems t
 
 My work spans deep learning, computer vision, explainability, reinforcement learning, and AI-driven automation. I enjoy taking complex concepts, engineering them into working systems, and building interfaces that make them understandable and usable.
 
-- 🧠 **AI & Deep Learning** — Neural architectures, learning systems, and intelligent agents.
-- 👁️ **Computer Vision** — Visual perception, face processing, and model interpretability.
-- 🔬 **Explainable AI** — Exploring what models learn, why they predict, and how they make decisions.
-- 🤖 **Agentic Systems** — Multi-agent workflows, automated testing, and intelligent decision-making.
-- 🎙️ **Conversational AI** — Real-time speech recognition, language generation, and speech synthesis.
-- 🏎️ **Automotive AI enthusiast**, especially ADAS, autonomous driving, and intelligent vehicle systems.
+-  **AI & Deep Learning** — Neural architectures, learning systems, and intelligent agents.
+-  **Computer Vision** — Visual perception, face processing, and model interpretability.
+-  **Explainable AI** — Exploring what models learn, why they predict, and how they make decisions.
+-  **Agentic Systems** — Multi-agent workflows, automated testing, and intelligent decision-making.
+-  **Conversational AI** — Real-time speech recognition, language generation, and speech synthesis.
+-  **Automotive AI enthusiast**, especially ADAS, autonomous driving, and intelligent vehicle systems.
 
 > `MISSION: Turn research concepts into systems that actually work.`
 
@@ -51,7 +51,7 @@ These are some of the projects that best represent the kind of engineering I enj
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 XAI Vision Lab
+###  XAI Vision Lab
 
 **Making the black box less black.**
 
@@ -67,7 +67,7 @@ An interactive computer vision lab built around a pretrained ResNet-50 model, br
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Multi-Agent Test Suite
+###  Multi-Agent Test Suite
 
 **Testing software through intelligent agents.**
 
@@ -85,7 +85,7 @@ A mutation-guided testing project exploring automated test generation and a user
 <tr>
 <td width="50%" valign="top">
 
-### 🚘 Deep RL ADAS Level 2
+###  Deep RL ADAS Level 2
 
 **Learning to make driving decisions.**
 
@@ -102,7 +102,7 @@ An advanced ADAS Level 2 simulation project using deep reinforcement learning in
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ Real-Time AI Debate Bot
+###  Real-Time AI Debate Bot
 
 **Listen. Think. Respond. Speak.**
 
@@ -121,7 +121,7 @@ A conversational AI system that listens to spoken arguments and generates spoken
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Half-Human, Half-Robot Face
+###  Half-Human, Half-Robot Face
 
 **Computer vision meets digital transformation.**
 
@@ -137,7 +137,7 @@ A face transformation application that preserves one half of the original face w
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Visual Intelligence & Beyond
+###  Visual Intelligence & Beyond
 
 **Building blocks for intelligent perception.**
 
@@ -155,7 +155,7 @@ Explorations in visual understanding and AI systems, including UI element detect
 
 <div align="center">
 
-### ⚡ More experiments, implementations & projects
+###  More experiments, implementations & projects
 
 **[Explore all my repositories →](https://github.com/Deep-Shah1105?tab=repositories)**
 
