@@ -63,7 +63,7 @@ An interactive computer vision lab built around a pretrained ResNet-50 model, br
 - Layer-wise Relevance Propagation (LRP) — tracing prediction relevance.
 
 **Stack:** Python · PyTorch · ResNet-50 · Streamlit · LIME · SHAP
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-XAI_Vision_Lab-00F5FF?style=flat-square&logo=github&logoColor=black)](https://github.com/Deep-Shah1105/your-xai-repo-name)
+
 </td>
 <td width="50%" valign="top">
 
